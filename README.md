@@ -8,3 +8,11 @@ Je souhaite progresser pour bien gérer mes projets.
 ## Une image sympa
 
 ![](https://logo-marque.com/wp-content/uploads/2020/11/Olympique-de-Marseille-Embleme.png)
+
+## À propos de moi
+
+J’aime apprendre Python, R et Git.  
+Je veux savoir gérer mes projets efficacement.  
+Ces outils me permettront de travailler en équipe.  
+J’espère gagner en autonomie avec la pratique.  
+Je suis motivé pour progresser rapidement !  
